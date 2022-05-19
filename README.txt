@@ -1,5 +1,5 @@
 Simple Google Colab notebook to generate cryptocurrency wallet addresses
-using VanityGenPLUS (see https://github.com/exploitagency/vanitygen-plus.)
+using VanityGenPLUS (see https://github.com/exploitagency/vanitygen-plus - NOW GONE)
 
 This notebook has:
 * GPU runtimes support
