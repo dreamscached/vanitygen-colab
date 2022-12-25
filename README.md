@@ -8,3 +8,7 @@ This notebook has:
 * Generation parameters available via GUI form
 
 Google Colab notebook is available [here.](https://colab.research.google.com/github/dreamscached/vanitygen-colab/blob/master/VanityGen.ipynb)
+
+Note: as this notebook heavily uses CPU/GPU for computing a lot of crypto related things, 
+your Google Colab account [will likely get banned](https://github.com/dreamscached/vanitygen-colab/issues/4).
+In the event of this happening you can submit a ban appeal and Colab support seems to approve it fairly quickly.
