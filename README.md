@@ -1,5 +1,9 @@
 # VanityGenPLUS Colab Notebook
 
+> [!CAUTION]
+> Since 2022 Colab *will* ban your account permanently; appealing *is not* guaranteed to grant you an unban.
+> I'm leaving this repository archived if anybody ever needs that, for whatever reason.
+
 Simple Google Colab notebook to generate cryptocurrency wallet addresses
 using [VanityGenPLUS.](https://web.archive.org/web/20190427070703/github.com/exploitagency/vanitygen-plus)
 
